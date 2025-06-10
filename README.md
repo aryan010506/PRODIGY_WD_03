@@ -105,3 +105,4 @@ License
 This project is open-source and available for educational purposes.
 
 preview
+![Image](https://github.com/user-attachments/assets/b7d5fdb0-019e-4dd0-ad25-b8e910853c56)
